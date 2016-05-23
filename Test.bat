@@ -1,0 +1,1 @@
+start "" "MeowMur_Interpreater.exe" "Test.txt"
